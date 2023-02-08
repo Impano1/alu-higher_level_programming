@@ -4,10 +4,10 @@ number = random.randint(-10000, 10000)
 if number > 0:
     x = number % 10
 if number < 0:
-    x : ((number x-1) % 10) x-1))
-if last number > 5:
-    print(f'{number} and is greater than 5')
-elif number == 0:
-    print(f'{number} and is 0')
+    x : ((number * -1) % 10) * -1))
+if last number x < 6 and ! = 0:
+    print("{} and is less than 6 and not 0".format(last number))
+elif last number > 5:
+    print("{} and is greater than 5".format(last number))
 else:
-    print(f'{number} and is less than 6 and 0')
+    print("{} and is 0".format(last number))
