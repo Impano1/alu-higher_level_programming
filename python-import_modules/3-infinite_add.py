@@ -5,7 +5,7 @@ if __name__ == "__main__":
     add = 0
     if length == 1:
         add = 0
-        else:
-            for bl in range(1, length):
-                add += int(sys.argv[bl])
-                print(add)
+    else:
+        for bl in range(1, length):
+            add += int(sys.argv[bl])
+    print(add)
