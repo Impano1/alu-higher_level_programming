@@ -5,7 +5,7 @@ if __name__ == "__main__":
     items = argv[1:]
     count = len(items)
     operator = ['+', '-', '*', '/']
-    if count != 3
+    if count != 3:
         print("Usage: ./100-my_calculator.py <a> <operator> <b>")
         exit(1)
     elif argv[2] not in operator:
