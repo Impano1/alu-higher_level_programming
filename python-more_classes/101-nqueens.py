@@ -25,6 +25,7 @@ def n_queens(N):
     solve(board, 0)
     return solutions
 
+
 if __name__ == '__main__':
     if len(sys.argv) != 2:
         print("Usage: nqueens N")
