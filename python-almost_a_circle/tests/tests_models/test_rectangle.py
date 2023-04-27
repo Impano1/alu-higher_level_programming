@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# test_rectangle.py
-# Fidel Impano <f.impano@alustudent.com>
 """Defines unittests for models/rectangle.py.
 Unittest classes:
     TestRectangle_instantiation - line 25
